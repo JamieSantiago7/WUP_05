@@ -67,7 +67,7 @@ chisqtestGC(table1)
 fisher.test(table1)
 ```
 
-
+All of the results shown give substancial evidence that the drug does not work on females.
 
 # Discussion and Conclusion
 
