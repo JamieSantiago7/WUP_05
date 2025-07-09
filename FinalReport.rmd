@@ -72,3 +72,5 @@ All of the results shown give substancial evidence that the drug does not work o
 # Discussion and Conclusion
 
 <!--Discussion and conclusion here.  If you found a relationship be sure to consider whether the relationship occurs because one of the variavbles causes the other, or whether they perhasps are related for some other reason.  Watch the chapter 6 videos from the GeorgeTown videos collection.!-->
+
+We learned how to compare groups of character variables to filter catergories we wanted to study. Overall, the drug made did not work for females and the tests we used showed that it actually made the more likely to get sick.
