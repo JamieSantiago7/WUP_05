@@ -27,6 +27,10 @@ The first thing that we need to do is seperate out from all the peopl/groupe we 
 
 <!--Divide this section into two sub-sections:  One for your descriptive  results and one for your inferential results.!-->
 
+```{r}
+females <- filter(triUmp, gender == "F")
+```
+
 ## Descriptive Results
 
 ### Graphical Descriptive Results
